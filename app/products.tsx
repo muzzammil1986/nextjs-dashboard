@@ -2,11 +2,12 @@ import React from "react";
 import { fetchProducts}  from "./lib/data";
 import { ProductTable } from "./lib/definitions";
 import Image from 'next/image';
-import { unstable_noStore as noStore } from 'next/cache';
+//import { unstable_noStore as noStore } from 'next/cache';
 
+export const dynamic = 'force-dynamic';
 
 export default async function Product(  ) {
-    noStore();
+   // noStore();
     const products = (await fetchProducts()) as ProductTable[];
     return (
         <>

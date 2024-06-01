@@ -1,31 +1,31 @@
 {
   "pages": {
     "/_not-found": [
-      "static/chunks/webpack-e21cffa87c368c03.js",
+      "static/chunks/webpack-bb2a0d6a11c42b81.js",
       "static/chunks/fd9d1056-ba9e06ee913a65e2.js",
       "static/chunks/472-b9deaea55c091490.js",
       "static/chunks/main-app-10c89ea60af498dd.js",
       "static/chunks/app/_not-found-8bc5c6a22c28eb47.js"
     ],
     "/layout": [
-      "static/chunks/webpack-e21cffa87c368c03.js",
+      "static/chunks/webpack-bb2a0d6a11c42b81.js",
       "static/chunks/fd9d1056-ba9e06ee913a65e2.js",
       "static/chunks/472-b9deaea55c091490.js",
       "static/chunks/main-app-10c89ea60af498dd.js",
       "static/css/5662ae115acb85ef.css",
-      "static/chunks/app/layout-ecb62d93830335b6.js"
+      "static/chunks/app/layout-ba11cda6d2cfd467.js"
     ],
     "/page": [
-      "static/chunks/webpack-e21cffa87c368c03.js",
+      "static/chunks/webpack-bb2a0d6a11c42b81.js",
       "static/chunks/fd9d1056-ba9e06ee913a65e2.js",
       "static/chunks/472-b9deaea55c091490.js",
       "static/chunks/main-app-10c89ea60af498dd.js",
       "static/chunks/424-e25dd3f7ad6569fb.js",
       "static/css/d44cb3fa1d992e3c.css",
-      "static/chunks/app/page-ce3eff5a81084515.js"
+      "static/chunks/app/page-0640dcf386e52d2e.js"
     ],
     "/ui/dashboard/page": [
-      "static/chunks/webpack-e21cffa87c368c03.js",
+      "static/chunks/webpack-bb2a0d6a11c42b81.js",
       "static/chunks/fd9d1056-ba9e06ee913a65e2.js",
       "static/chunks/472-b9deaea55c091490.js",
       "static/chunks/main-app-10c89ea60af498dd.js",
@@ -34,11 +34,11 @@
       "static/chunks/app/ui/dashboard/page-b27f01cb3e6853a8.js"
     ],
     "/ui/dashboard/layout": [
-      "static/chunks/webpack-e21cffa87c368c03.js",
+      "static/chunks/webpack-bb2a0d6a11c42b81.js",
       "static/chunks/fd9d1056-ba9e06ee913a65e2.js",
       "static/chunks/472-b9deaea55c091490.js",
       "static/chunks/main-app-10c89ea60af498dd.js",
-      "static/chunks/app/ui/dashboard/layout-cd94ad74de1133ea.js"
+      "static/chunks/app/ui/dashboard/layout-44272a86c616eff1.js"
     ]
   }
 }
