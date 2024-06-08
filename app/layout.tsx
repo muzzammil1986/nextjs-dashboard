@@ -9,10 +9,10 @@ export default function RootLayout({
     
     <html lang="en">
       <head>
-        {process.env.NODE_ENV === "production" && (
+        
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1599870932013624"
       crossOrigin="anonymous">
-     </script>)}
+     </script>
     
       </head>
       <body>
