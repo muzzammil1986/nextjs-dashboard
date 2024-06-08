@@ -11,13 +11,13 @@ export default function RootLayout({
     <html lang="en">
       <head>
         
-      <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1599870932013624"
-      crossOrigin="anonymous">
-     </Script>
+      
     
       </head>
       <body>
- 
+      <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1599870932013624"
+      crossOrigin="anonymous">
+     </Script>
       {children}
       </body>
     </html>
