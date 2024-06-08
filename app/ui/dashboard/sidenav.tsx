@@ -8,12 +8,18 @@ import { PowerIcon } from '@heroicons/react/24/outline';
 import {memo, useEffect} from "react";
 import styles  from "@/styles/ad.module.css";
 
+declare global {
+  interface Window {
+    adsbygoogle: {[key: string]: unknown}[]
+  }
+}
+
 const SideNav= ()=> {
   useEffect(() => {
       try {
-        ((window as any).adsbygoogle = (window as any).adsbygoogle || []).push(
-          {}
-        );
+        if(typeof window !== 'undefined'){
+          (window.adsbygoogle = window.adsbygoogle || []).push({})
+    }
       } catch (e) {
         console.log(e)
       }
